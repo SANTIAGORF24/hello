@@ -1,0 +1,4 @@
+{IDBIndex}
+import {setInterval(() => {
+    
+}, interval);}
